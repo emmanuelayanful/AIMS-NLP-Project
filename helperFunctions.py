@@ -30,14 +30,18 @@ def setup_joeynmt():
     """
     Setup JoeyNMT by cloning the repository and installing the required packages
     """
+    os.chdir(os.getcwd())
+    os.makedirs('joeynmtFolder', exist_ok=True)
     commands = """
         #Create and activate a virtual environment to install the package into:
+        cd joeynmtFolder
         python -m venv jnmt
         source jnmt/bin/activate
 
         #Then clone JoeyNMT from GitHub and switch to its root directory:
         git clone https://github.com/joeynmt/joeynmt.git
         cd joeynmt
+
         # Install JoeyNMT and it’s requirements:
         pip install .
 
