@@ -5259,7 +5259,6 @@ ngakho bathi abajuda
 “leli thempeli kwaba yiminyaka engamashumi amane nesithupha lakhiwa, wena-ke uzakulivusa ngezinsuku ezintathu na?”
 kepha wayekhuluma ngethempeli lomzimba wakhe
 kuthe esevukile kwabafileyo, abafundi bakhe bakhumbula ukuthi washo njalo kubo; bakholwa ngumbhalo nezwi abelishilo ujesu
-
 kwathi esejerusalema ngephasika emkhosini, abaningi bakholwa egameni lakhe bebona izibonakaliso zakhe azenzayo;
 kepha ujesu yena kabethembanga ukuba abhobokelane nabo, ngokuba wayebazi bonke,
 nangokuba engaswele nobani amfakazele ngomuntu; wayekwazi yena okuphakathi komuntu
@@ -8773,7 +8772,6 @@ ngokuba konke okwalotshwa ngaphambili kwalotshelwa ukufundiswa kwethu, ukuze ngo
 kepha unkulunkulu wokubekezela nowenduduzo makaniphe nibe nokuqonda kunye phakathi kwenu ngokukakristu jesu,
 ukuze nganhliziyonye nidumise ngamlomo munye unkulunkulu uyise wenkosi yethu ujesu kristu
 ngalokho yamukelanani, njengalokho nokristu wasamukela, ukuze kudunyiswe unkulunkulu
-
 ngokuba ngithi ukristu waba yisikhonzi sabasokileyo ngenxa yeqiniso likankulunkulu, ukuze aqinise izithembiso ezaphiwa okhokho,
 abezizwe bamdumise unkulunkulu ngenxa yesihawu sakhe, njengalokho kulotshiwe ukuthi
 “ngalokho ngiyakukudumisa phakathi kwabezizwe, ngihubele igama lakho;”
@@ -17408,7 +17406,6 @@ ngakho bathi abajuda
 “leli thempeli kwaba yiminyaka engamashumi amane nesithupha lakhiwa, wena-ke uzakulivusa ngezinsuku ezintathu na?”
 kepha wayekhuluma ngethempeli lomzimba wakhe
 kuthe esevukile kwabafileyo, abafundi bakhe bakhumbula ukuthi washo njalo kubo; bakholwa ngumbhalo nezwi abelishilo ujesu
-
 kwathi esejerusalema ngephasika emkhosini, abaningi bakholwa egameni lakhe bebona izibonakaliso zakhe azenzayo;
 kepha ujesu yena kabethembanga ukuba abhobokelane nabo, ngokuba wayebazi bonke,
 nangokuba engaswele nobani amfakazele ngomuntu; wayekwazi yena okuphakathi komuntu
@@ -20929,7 +20926,6 @@ ngokuba konke okwalotshwa ngaphambili kwalotshelwa ukufundiswa kwethu, ukuze ngo
 kepha unkulunkulu wokubekezela nowenduduzo makaniphe nibe nokuqonda kunye phakathi kwenu ngokukakristu jesu,
 ukuze nganhliziyonye nidumise ngamlomo munye unkulunkulu uyise wenkosi yethu ujesu kristu
 ngalokho yamukelanani, njengalokho nokristu wasamukela, ukuze kudunyiswe unkulunkulu
-
 ngokuba ngithi ukristu waba yisikhonzi sabasokileyo ngenxa yeqiniso likankulunkulu, ukuze aqinise izithembiso ezaphiwa okhokho,
 abezizwe bamdumise unkulunkulu ngenxa yesihawu sakhe, njengalokho kulotshiwe ukuthi
 “ngalokho ngiyakukudumisa phakathi kwabezizwe, ngihubele igama lakho;”

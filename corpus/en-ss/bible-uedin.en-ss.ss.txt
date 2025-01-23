@@ -6,7 +6,7 @@ rami alimzaa aminadabu, aminadabu alimzaa nashoni, nashoni alimzaa salmoni,
 salmoni alimzaa boazi 
 boazi na ruthi walikuwa wazazi wa obedi, obedi alimzaa yese,
 naye yese alimzaa mfalme daudi
-daudi alimzaa solomoni 
+daudi alimzaa solomoni
 solomoni alimzaa rehoboamu, rehoboamu alimzaa abiya, abiya alimzaa asa,
 asa alimzaa yehoshafati, yehoshafati alimzaa yoramu, yoramu alimzaa uzia,
 uzia alimzaa yothamu, yothamu alimzaa ahazi, ahazi alimzaa hezekia,
@@ -27,7 +27,7 @@ yosefu, mumewe, kwa vile alikuwa mwadilifu, hakutaka kumwaibisha hadharani; hivy
 alipokuwa bado anawaza jambo hilo, malaika wa bwana alimtokea katika ndoto, akamwambia, yosefu, mwana wa daudi, usiogope kumchukua maria awe mke wako, maana amekuwa mja mzito kwa uwezo wa roho mtakatifu
 atajifungua mtoto wa kiume, nawe utampa jina yesu, kwa kuwa yeye atawaokoa watu wake kutoka katika dhambi zao
 basi, haya yote yalitukia ili litimie lile neno bwana alilosema kwa njia ya nabii
-bikira atachukua mimba, atamzaa mtoto wa kiume, naye ataitwa emanueli 
+bikira atachukua mimba, atamzaa mtoto wa kiume, naye ataitwa emanueli
 hivyo, yosefu alipoamka usingizini alifanya kama malaika huyo alivyomwambia, akamchukua mke wake nyumbani
 lakini hakumjua kamwe kimwili hata maria alipojifungua mtoto wa kiume
 naye yosefu akampa jina yesu
@@ -1804,7 +1804,7 @@ lakini kinachotoka ndani ya mtu ndicho kinachomtia mtu najisi
 mwenye masikio na asikie!
 alipouacha umati wa watu na kuingia nyumbani, wanafunzi wake walimwuliza maana ya huo mfano
 naye akawaambia, je, hata ninyi hamwelewi? je, hamwelewi kwamba kitu kinachomwingia mtu toka nje hakiwezi kumtia unajisi,
-kwa maana hakimwingii moyoni, ila tumboni, na baadaye hutolewa nje chooni? 
+kwa maana hakimwingii moyoni, ila tumboni, na baadaye hutolewa nje chooni?
 akaendelea kusema, kinachotoka ndani ya mtu ndicho kinachomtia najisi
 kwa maana kutoka ndani, katika moyo wa mtu, hutoka mawazo mabaya, uasherati, wizi, uuaji,
 uzinzi, uchoyo, uovu, udanganyifu, ufisadi, wivu, kashfa, kiburi na upumbavu
@@ -2054,8 +2054,6 @@ lakini yesu akawaambia, nitawaulizeni swali moja; mkinijibu, na pia nitawaambien
 je, mamlaka ya yohane ya kubatiza yalitoka mbinguni ama kwa watu? nijibuni
 wakaanza kujadiliana, tukisema, yalitoka mbinguni, atatuuliza, basi, mbona hamkumsadiki?
 na tukisema, yalitoka kwa watu
-
-
 basi, wakamjibu yesu, sisi hatujui
 naye yesu akawaambia, nami pia sitawaambieni ninafanya mambo haya kwa mamlaka gani
 yesu alianza kusema nao kwa mifano
@@ -2959,7 +2957,7 @@ jua lilipokuwa linaanza kutua, wale kumi na wawili walimwendea wakamwambia, waag
 lakini yesu akawaambia, wapeni ninyi chakula
 wakamjibu, hatuna chochote ila mikate mitano na samaki wawili
 labda twende wenyewe tukawanunulie chakula watu wote hawa!
- basi, yesu akawaambia wanafunzi wake, waambieni watu waketi katika makundi ya watu hamsinihamsini
+basi, yesu akawaambia wanafunzi wake, waambieni watu waketi katika makundi ya watu hamsinihamsini
 wanafunzi wakafanya walivyoambiwa, wakawaketisha wote
 kisha yesu akaitwaa ile mikate mitano na wale samaki wawili, akatazama juu mbinguni, akamshukuru mungu, akavimega, akawapa wanafunzi wake wawagawie watu
 wakala wote, wakashiba; wakakusanya makombo ya chakula, wakajaza vikapu kumi na viwili
@@ -4031,7 +4029,7 @@ yesu akawaambia, njoni, nanyi mtaona
 hao wanafunzi wakamfuata, wakaona mahali alipokuwa anakaa, wakashinda naye siku hiyo
 ilikuwa yapata saa kumi jioni
 andrea, nduguye simoni petro, alikuwa mmoja wa hao wawili waliokuwa wamemsikia yohane akisema hivyo, wakamfuata yesu
-andrea alimkuta kwanza simoni, ndugu yake, akamwambia, tumemwona masiha 
+andrea alimkuta kwanza simoni, ndugu yake, akamwambia, tumemwona masiha
 kisha akampeleka simoni kwa yesu
 naye yesu akamtazama simoni akasema, wewe ni simoni mwana wa yohane
 sasa utaitwa kefa
@@ -4135,7 +4133,7 @@ ilikuwa yapata saa sita mchana
 basi, mwanamke mmoja msamaria akafika kuteka maji
 yesu akamwambia, nipatie maji ninywe
 
-lakini huyo mwanamke akamwambia, wewe ni myahudi; mimi ni mwanamke msamaria! unawezaje kuniomba maji? 
+lakini huyo mwanamke akamwambia, wewe ni myahudi; mimi ni mwanamke msamaria! unawezaje kuniomba maji?
 yesu akamjibu, kama tu ungalijua zawadi ya mungu na ni nani anayekwambia
 nipatie maji ninywe, ungalikwisha mwomba, naye angekupa maji yaliyo hai
 huyo mama akasema, mheshimiwa, wewe huna chombo cha kutekea maji, nacho kisima ni kirefu; utapata wapi maji yaliyo hai?
@@ -4261,7 +4259,7 @@ msifikiri kwamba mimi nitawashtaki kwa baba
 mose ambaye ninyi mmemtumainia ndiye atakayewashtaki
 kama kweli mngemwamini mose, mngeniamini na mimi pia; maana mose aliandika juu yangu
 lakini hamuyaamini yale aliyoandika, mtawezaje basi, kuamini maneno yangu?
-baada ya hayo, yesu alivuka ziwa galilaya 
+baada ya hayo, yesu alivuka ziwa galilaya
 umati mkubwa wa watu ulimfuata kwa sababu watu hao walikuwa wameona ishara alizokuwa akifanya kwa kuwaponya wagonjwa
 yesu alipanda mlimani, akaketi pamoja na wanafunzi wake
 sikukuu ya wayahudi iitwayo pasaka ilikuwa imekaribia
@@ -5053,14 +5051,14 @@ kwa sababu hiyo, yule aliyenikabidhi kwako ana dhambi kubwa zaidi
 tangu hapo, pilato akawa anatafuta njia ya kumwachilia, lakini wayahudi wakapiga kelele
 ukimwachilia huyu mtu, wewe si rafiki yake kaisari; kila mtu anayejifanya kuwa mfalme humpinga kaisari!
 basi, pilato aliposikia maneno hayo akamleta yesu nje, akaketi juu ya kiti cha hukumu, mahali paitwapo
-sakafu ya mawe 
+sakafu ya mawe
 ilikuwa yapata saa sita mchana, siku ya maandalio ya pasaka
 pilato akawaambia wayahudi, tazameni, mfalme wenu!
 wao wakapaaza sauti
 mwondoe! mwondoe! msulubishe! makuhani wakuu wakajibu, sisi hatuna mfalme isipokuwa kaisari!
 basi, hapo pilato akamtia yesu mikononi mwao ili asulubiwe
 basi, wakamchukua yesu
-naye akatoka akiwa amejichukulia msalaba wake kwenda mahali paitwapo fuvu la kichwa, 
+naye akatoka akiwa amejichukulia msalaba wake kwenda mahali paitwapo fuvu la kichwa,
 hapo ndipo walipomsulubisha, na pamoja naye waliwasulubisha watu wengine wawili; mmoja upande wake wa kulia na mwingine upande wake wa kushoto, naye yesu katikati
 pilato aliandika ilani akaiweka juu ya msalaba
 nayo ilikuwa imeandikwa hivi
@@ -5122,7 +5120,7 @@ akawaona malaika wawili waliovaa mavazi meupe, wameketi pale mwili wa yesu ulipo
 hao malaika wakamwuliza, mama, kwa nini unalia? naye akawaambia, wamemwondoa bwana wangu, na wala sijui walikomweka!
 baada ya kusema hayo, aligeuka nyuma, akamwona yesu amesimama hapo, lakini asitambue ya kuwa ni yesu
 yesu akamwuliza, mama, kwa nini unalia? unamtafuta nani? maria, akidhani kwamba huyo ni mtunza bustani, akamwambia, mheshimiwa, kama ni wewe umemwondoa, niambie ulikomweka, nami nitamchukua
-yesu akamwambia, maria! naye maria akageuka, akamwambia kwa kiebrania, raboni 
+yesu akamwambia, maria! naye maria akageuka, akamwambia kwa kiebrania, raboni
 yesu akamwambia, usinishike; sijakwenda bado juu kwa baba
 lakini nenda kwa ndugu zangu uwaambie
 nakwenda juu kwa baba yangu na baba yenu, mungu wangu na mungu wenu
@@ -5176,8 +5174,8 @@ wanipenda? akamwambia, bwana, wewe wajua yote; wewe wajua kwamba mimi nakupenda
 yesu akamwambia, tunza kondoo wangu!
 kweli nakwambia, ulipokuwa kijana ulizoea kujifunga mshipi na kwenda kokote ulikotaka
 lakini utakapokuwa mzee utanyosha mikono yako, na mtu mwingine atakufunga na kukupeleka usikopenda kwenda
- kisha akamwambia, nifuate
-hapo petro akageuka, akamwona yule mwanafunzi ambaye yesu alimpenda, anafuata 
+kisha akamwambia, nifuate
+hapo petro akageuka, akamwona yule mwanafunzi ambaye yesu alimpenda, anafuata
 basi, petro alipomwona huyo akamwuliza yesu, bwana, na huyu je?
 yesu akamjibu, kama nataka abaki mpaka nitakapokuja, yakuhusu nini? wewe nifuate mimi
 basi, habari hiyo ikaenea miongoni mwa wale ndugu kwamba mwanafunzi huyo hafi
@@ -5360,7 +5358,7 @@ hakuna hata mmoja aliyekuwa na kitu chochote akakiweka kuwa mali yake binafsi, i
 mitume walishuhudia kwa nguvu nyingi kufufuka kwa bwana yesu, naye mungu akawapa baraka nyingi
 hakuna mtu yeyote aliyetindikiwa kitu, maana waliokuwa na mashamba au nyumba walikuwa wanaviuza
 na kuwakabidhi mitume fedha hizo, zikagawiwa kila mmoja kadiri ya mahitaji yake
-kulikuwa na mlawi mmoja, mzaliwa wa kupro, jina lake yosefu, ambaye mitume walimwita jina barnaba 
+kulikuwa na mlawi mmoja, mzaliwa wa kupro, jina lake yosefu, ambaye mitume walimwita jina barnaba
 yeye pia alikuwa na shamba lake, akaliuza; akazichukua zile fedha, akawakabidhi mitume
 mtu mmoja aitwaye anania na mkewe safira waliuza shamba lao vilevile
 lakini, mkewe akiwa anajua, anania akajiwekea sehemu ya fedha alizopata na ile sehemu nyingine akawakabidhi mitume
@@ -5751,7 +5749,7 @@ alipompata, alimleta antiokia
 nao wote wawili walikaa na lile kanisa kwa mwaka wote mzima wakifundisha kundi kubwa la watu
 huko antiokia, ndiko, kwa mara ya kwanza, wafuasi waliitwa wakristo
 wakati huohuo, manabii kadhaa walikuja antiokia kutoka yerusalemu
-basi, mmoja wao aitwaye agabo alisimama, na kwa uwezo wa roho akabashiri kwamba kutakuwa na njaa kubwa katika nchi yote 
+basi, mmoja wao aitwaye agabo alisimama, na kwa uwezo wa roho akabashiri kwamba kutakuwa na njaa kubwa katika nchi yote
 wale wanafunzi waliamua kila mmoja kwa kadiri ya uwezo wake apeleke chochote ili kuwasaidia wale ndugu waliokuwa wanaishi yudea
 basi, wakafanya hivyo na kupeleka mchango wao kwa wazee wa kanisa kwa mikono ya barnaba na saulo
 karibu wakati huohuo, mfalme herode alianza kuwatesa baadhi ya wakristo
@@ -6725,7 +6723,7 @@ lakini itakuwaje iwapo baadhi yao hawakuwa waaminifu? je, jambo hilo litaondoa u
 hata kidogo! mungu hubaki mwaminifu daima, ingawaje kila binadamu ni mwongo
 kama maandiko matakatifu yasemavyo
 kila usemapo, maneno yako ni ya haki; na katika hukumu, wewe hushinda
-lakini, ikiwa uovu wetu unathibitisha kwamba mungu anatenda kwa haki, tutasema nini? je, tutasema kwamba anakosa haki akituadhibu? 
+lakini, ikiwa uovu wetu unathibitisha kwamba mungu anatenda kwa haki, tutasema nini? je, tutasema kwamba anakosa haki akituadhibu?
 hata kidogo! ingekuwa hivyo, mungu angewezaje kuuhukumu ulimwengu?
 labda utasema
 ikiwa ukosefu wa uaminifu kwa upande wangu unamdhihirisha mungu kuwa mwaminifu zaidi na hivyo kumpatia utukufu, basi singepaswa kuhukumiwa kuwa mwenye dhambi!
@@ -6843,7 +6841,7 @@ basi, tuseme nini? je, tutende dhambi ati kwa sababu hatuko chini ya sheria bali
 mnajua kwamba mkijitolea ninyi wenyewe kama watumwa na kumtii fulani, mnakuwa kweli watumwa wake mtu huyo--au watumwa wa dhambi, na matokeo yake ni kifo, au wa utii, na matokeo yake ni kukubaliwa kuwa waadilifu
 ingawa mlikuwa watumwa wa dhambi zamani, sasa lakini--namshukuru mungu--mmetii kwa moyo wote yale maazimio na mafundisho mliyopokea
 mlikombolewa kutoka utumwa wa dhambi, mkawa watumwa wa uadilifu
- kama vile wakati fulani mlivyojitolea ninyi wenyewe kutumikia uchafu na uhalifu kwa ajili ya uovu, vivyo hivyo sasa jitoleeni nafsi zenu wenyewe kutumikia uadilifu kwa ajili ya utakatifu
+kama vile wakati fulani mlivyojitolea ninyi wenyewe kutumikia uchafu na uhalifu kwa ajili ya uovu, vivyo hivyo sasa jitoleeni nafsi zenu wenyewe kutumikia uadilifu kwa ajili ya utakatifu
 mlipokuwa watumwa wa dhambi, mlikuwa huru mbali na uadilifu
 sasa, mlipata faida gani siku zile kutokana na mambo yale ambayo mnayaonea aibu sasa? maana, matokeo ya mambo haya ni kifo!
 lakini sasa, mmekwisha kombolewa kutoka utumwa wa dhambi na mmekuwa watumishi wa mungu; faida mliyo nayo sasa ni utakatifu, na matokeo yake ni uzima wa milele
@@ -7006,7 +7004,7 @@ lakini, kuhusu kukubaliwa kuwa mwadilifu kwa njia ya imani, yasemwa hivi
 usiseme moyoni mwako
 nani atapanda mpaka mbinguni? ;
 wala usiseme
-nani atashuka mpaka kuzimu 
+nani atashuka mpaka kuzimu
 maandiko matakatifu yesema hivi, ujumbe huo wa mungu uko karibu nawe, uko kinywani mwako na moyoni mwako nao ndio ile imani tunayoihubiri
 kama ukikiri kwa kinywa chako kwamba yesu ni bwana na kuamini moyoni mwako kwamba mungu alimfufua kutoka wafu, utaokoka
 maana tunaamini kwa moyo na kukubaliwa kuwa waadilifu; na tunakiri kwa midomo yetu na kuokolewa
@@ -8221,8 +8219,8 @@ basi, ninaandika barua hii nikiwa mbali, ili nitakapofika kwenu nisilazimike kuw
 kwa sasa, ndugu, kwaherini! muwe na ukamilifu, shikeni mashauri yangu, muwe na nia moja; kaeni kwa amani
 naye mungu wa mapendo na amani atakuwa pamoja nanyi
 salimianeni kwa ishara ya upendo
- watu wote wa mungu huku wanawasalimuni
- neema ya bwana yesu kristo na upendo wa mungu na umoja wa roho mtakatifu, viwe nanyi nyote
+watu wote wa mungu huku wanawasalimuni
+neema ya bwana yesu kristo na upendo wa mungu na umoja wa roho mtakatifu, viwe nanyi nyote
 mimi paulo mtume,
 na ndugu wote walio pamoja nami, tunayaandikia makanisa yaliyoko galatia
 mimi nimepata kuwa mtume si kutokana na mamlaka ya binadamu, wala si kwa nguvu ya mtu, bali kwa uwezo wa yesu kristo na wa mungu baba aliyemfufua yesu kutoka wafu
@@ -8697,7 +8695,7 @@ muwe na hamu ya mambo ya huko juu, na siyo mambo ya hapa duniani
 maana ninyi mmekufa na uzima wenu umefichwa pamoja na kristo katika mungu
 uzima wenu halisi ni kristo, na wakati atakapotokea ndipo nanyi pia mtakapotokea pamoja naye katika utukufu
 basi, komesheni kabisa kila kitu kilicho ndani yenu ambacho chahusika na mambo ya kidunia
-uasherati, uchafu, shauku, tamaa mbaya na uchu 
+uasherati, uchafu, shauku, tamaa mbaya na uchu
 kwa sababu ya mambo hayo hasira ya mungu huwajia wote wanaomwasi
 wakati mmoja ninyi pia mliishi kufuatana na mambo hayo, mlipotawaliwa nayo
 lakini sasa mnapaswa kuachana na mambo haya yote
@@ -8738,7 +8736,7 @@ ndugu yetu mpenzi tukiko, mfanyakazi mwaminifu na mtumishi mwenzetu katika kazi 
 ndiyo maana namtuma, ili aichangamshe mioyo yenu kwa kuwaambieni habari zetu
 anakuja pamoja na onesimo, ndugu yetu mpenzi na mwaminifu, ambaye ni mwananchi mwenzenu
 watawapeni habari za mambo yote yanayofanyika hapa
-aristarko, ambaye yuko kifungoni pamoja nami, anawasalimuni; hali kadhalika marko, binamu yake barnaba, 
+aristarko, ambaye yuko kifungoni pamoja nami, anawasalimuni; hali kadhalika marko, binamu yake barnaba,
 naye yoshua aitwaye yusto, anawasalimuni
 miongoni mwa wayahudi waliokwisha pokea imani, hawa tu peke yao, ndio wanaofanya kazi pamoja nami kwa ajili ya utawala wa mungu; nao wamekuwa msaada mkubwa kwangu
 epafra, mwananchi mwenzenu na mtumishi wa kristo yesu anawasalimuni
@@ -9293,7 +9291,7 @@ na wa maana sana kwangu mimi, na kwako atakuwa wa maana zaidi kama mtumwa na kam
 basi, ikiwa wanitambua mimi kuwa mwenzako, mpokee tena kama vile ungenipokea mimi mwenyewe
 kama alikuwa amekukosea kitu, au alikuwa na deni lako, basi, unidai mimi
 naandika jambo hili kwa mkono wangu mwenyewe
-mimi paulo nitalipa! 
+mimi paulo nitalipa!
 haya, basi, ndugu yangu, nifanyie jambo hilo kwa ajili ya jina la bwana; burudisha moyo wangu kama ndugu katika kristo
 naandika nikitumaini kwamba utanikubalia ombi langu; tena najua kwamba utafanya hata zaidi ya haya ninayokuomba
 pamoja na hayo, nitayarishie chumba kwani natumaini kwamba kwa sala zenu, mungu atanijalia niwatembeleeni
@@ -10630,7 +10628,7 @@ theluthi moja ya bahari ikawa damu,
 theluthi moja ya viumbe vya baharini vikafa na theluthi moja ya meli zikaharibiwa
 kisha malaika wa tatu akapiga tarumbeta yake
 na nyota kubwa ikiwaka kama bonge la moto, ikaanguka kutoka mbinguni, na kutua juu ya theluthi moja ya mito na chemchemi za maji
- basi, theluthi moja ya maji yakawa machungu; watu wengi wakafa kutokana na maji hayo, kwa sababu yaligeuka kuwa machungu
+basi, theluthi moja ya maji yakawa machungu; watu wengi wakafa kutokana na maji hayo, kwa sababu yaligeuka kuwa machungu
 kisha malaika wa nne akapiga tarumbeta yake
 ndipo theluthi moja ya jua, ya mwezi na ya nyota ikapata pigo; hata mwangaza ukapoteza theluthi moja ya mngao wake
 theluthi moja ya mchana ikakosa mwanga, hali kadhalika na theluthi moja ya usiku
@@ -10744,7 +10742,7 @@ basi, joka likatapika maji mengi kama mto, yakamfuata huyo mama nyuma ili yamchu
 lakini nchi ikamsaidia huyo mama
 ikajifunua kama mdomo na kuyameza maji hayo yaliyotoka kinywani mwa hilo joka
 basi, joka hilo likamkasirikia huyo mama, likajiondokea, likaenda kupigana na wazawa wengine wa huyo mama, yaani wote wanaotii amri za mungu na kuuzingatia ukweli wa yesu
- na likajisimamia ukingoni mwa bahari
+na likajisimamia ukingoni mwa bahari
 kisha nikaona mnyama mmoja akitoka baharini
 alikuwa na vichwa saba na pembe kumi, na kila pembe ilikuwa na taji
 jina la kashfa lilikuwa limeandikwa juu ya vichwa hivyo
@@ -10929,7 +10927,7 @@ kisha kukatokea sauti kwenye kiti cha enzi
 msifuni mungu enyi watumishi wake wote, nyote mnaomcha, wadogo kwa wakubwa
 kisha nikasikia kitu kama sauti ya umati mkubwa wa watu na sauti ya maji mengi na ya ngurumo kubwa, ikisema, haleluya! maana bwana mungu wetu mwenye uwezo ni mfalme!
 tufurahi na kushangilia; tumtukuze, kwani wakati wa arusi ya mwanakondoo umefika, na bibi arusi yuko tayari
-amepewa uwezo wa kujivalia nguo ya kitani safi, iliyotakata na yenye kungaa! 
+amepewa uwezo wa kujivalia nguo ya kitani safi, iliyotakata na yenye kungaa!
 kisha malaika akaniambia, andika haya
 heri wale walioalikwa kwenye karamu ya arusi ya mwanakondoo! tena akaniambia, hayo ni maneno ya kweli ya mungu
 basi, mimi nikaanguka kifudifudi mbele ya miguu yake nikataka kumwabudu
@@ -10963,7 +10961,7 @@ kisha nikaona viti vya enzi na watu walioketi juu yake; watu hao walipewa mamlak
 niliona pia roho za wale waliokuwa wamenyongwa kwa sababu ya kumtangaza yesu na kwa sababu ya neno la mungu
 hawa hawakumwabudu yule mnyama na sanamu yake, wala hawakupigwa alama yake juu ya paji za nyuso zao, au juu ya mikono yao
 walipata tena uhai, wakatawala pamoja na kristo kwa muda wa miaka elfu moja
- huu ndio ufufuo wa kwanza
+huu ndio ufufuo wa kwanza
 wameneemeka sana, tena heri yao wote wanaoshiriki ufufuo huu wa kwanza
 kifo cha pili hakitakuwa na nguvu juu yao; watakuwa makuhani wa mungu na wa kristo, na watatawala pamoja naye kwa miaka elfu moja
 wakati miaka elfu mia moja itakapotimia, shetani atafunguliwa kutoka gerezani mwake
@@ -11066,7 +11064,7 @@ rami alimzaa aminadabu, aminadabu alimzaa nashoni, nashoni alimzaa salmoni,
 salmoni alimzaa boazi 
 boazi na ruthi walikuwa wazazi wa obedi, obedi alimzaa yese,
 naye yese alimzaa mfalme daudi
-daudi alimzaa solomoni 
+daudi alimzaa solomoni
 solomoni alimzaa rehoboamu, rehoboamu alimzaa abiya, abiya alimzaa asa,
 asa alimzaa yehoshafati, yehoshafati alimzaa yoramu, yoramu alimzaa uzia,
 uzia alimzaa yothamu, yothamu alimzaa ahazi, ahazi alimzaa hezekia,
@@ -11087,7 +11085,7 @@ yosefu, mumewe, kwa vile alikuwa mwadilifu, hakutaka kumwaibisha hadharani; hivy
 alipokuwa bado anawaza jambo hilo, malaika wa bwana alimtokea katika ndoto, akamwambia, yosefu, mwana wa daudi, usiogope kumchukua maria awe mke wako, maana amekuwa mja mzito kwa uwezo wa roho mtakatifu
 atajifungua mtoto wa kiume, nawe utampa jina yesu, kwa kuwa yeye atawaokoa watu wake kutoka katika dhambi zao
 basi, haya yote yalitukia ili litimie lile neno bwana alilosema kwa njia ya nabii
-bikira atachukua mimba, atamzaa mtoto wa kiume, naye ataitwa emanueli 
+bikira atachukua mimba, atamzaa mtoto wa kiume, naye ataitwa emanueli
 hivyo, yosefu alipoamka usingizini alifanya kama malaika huyo alivyomwambia, akamchukua mke wake nyumbani
 lakini hakumjua kamwe kimwili hata maria alipojifungua mtoto wa kiume
 naye yosefu akampa jina yesu
@@ -12864,7 +12862,7 @@ lakini kinachotoka ndani ya mtu ndicho kinachomtia mtu najisi
 mwenye masikio na asikie!
 alipouacha umati wa watu na kuingia nyumbani, wanafunzi wake walimwuliza maana ya huo mfano
 naye akawaambia, je, hata ninyi hamwelewi? je, hamwelewi kwamba kitu kinachomwingia mtu toka nje hakiwezi kumtia unajisi,
-kwa maana hakimwingii moyoni, ila tumboni, na baadaye hutolewa nje chooni? 
+kwa maana hakimwingii moyoni, ila tumboni, na baadaye hutolewa nje chooni?
 akaendelea kusema, kinachotoka ndani ya mtu ndicho kinachomtia najisi
 kwa maana kutoka ndani, katika moyo wa mtu, hutoka mawazo mabaya, uasherati, wizi, uuaji,
 uzinzi, uchoyo, uovu, udanganyifu, ufisadi, wivu, kashfa, kiburi na upumbavu
@@ -13114,8 +13112,6 @@ lakini yesu akawaambia, nitawaulizeni swali moja; mkinijibu, na pia nitawaambien
 je, mamlaka ya yohane ya kubatiza yalitoka mbinguni ama kwa watu? nijibuni
 wakaanza kujadiliana, tukisema, yalitoka mbinguni, atatuuliza, basi, mbona hamkumsadiki?
 na tukisema, yalitoka kwa watu
-
-
 basi, wakamjibu yesu, sisi hatujui
 naye yesu akawaambia, nami pia sitawaambieni ninafanya mambo haya kwa mamlaka gani
 yesu alianza kusema nao kwa mifano
@@ -14019,7 +14015,7 @@ jua lilipokuwa linaanza kutua, wale kumi na wawili walimwendea wakamwambia, waag
 lakini yesu akawaambia, wapeni ninyi chakula
 wakamjibu, hatuna chochote ila mikate mitano na samaki wawili
 labda twende wenyewe tukawanunulie chakula watu wote hawa!
- basi, yesu akawaambia wanafunzi wake, waambieni watu waketi katika makundi ya watu hamsinihamsini
+basi, yesu akawaambia wanafunzi wake, waambieni watu waketi katika makundi ya watu hamsinihamsini
 wanafunzi wakafanya walivyoambiwa, wakawaketisha wote
 kisha yesu akaitwaa ile mikate mitano na wale samaki wawili, akatazama juu mbinguni, akamshukuru mungu, akavimega, akawapa wanafunzi wake wawagawie watu
 wakala wote, wakashiba; wakakusanya makombo ya chakula, wakajaza vikapu kumi na viwili
@@ -15092,7 +15088,7 @@ yesu akawaambia, njoni, nanyi mtaona
 hao wanafunzi wakamfuata, wakaona mahali alipokuwa anakaa, wakashinda naye siku hiyo
 ilikuwa yapata saa kumi jioni
 andrea, nduguye simoni petro, alikuwa mmoja wa hao wawili waliokuwa wamemsikia yohane akisema hivyo, wakamfuata yesu
-andrea alimkuta kwanza simoni, ndugu yake, akamwambia, tumemwona masiha 
+andrea alimkuta kwanza simoni, ndugu yake, akamwambia, tumemwona masiha
 kisha akampeleka simoni kwa yesu
 naye yesu akamtazama simoni akasema, wewe ni simoni mwana wa yohane
 sasa utaitwa kefa
@@ -15196,7 +15192,7 @@ ilikuwa yapata saa sita mchana
 basi, mwanamke mmoja msamaria akafika kuteka maji
 yesu akamwambia, nipatie maji ninywe
 
-lakini huyo mwanamke akamwambia, wewe ni myahudi; mimi ni mwanamke msamaria! unawezaje kuniomba maji? 
+lakini huyo mwanamke akamwambia, wewe ni myahudi; mimi ni mwanamke msamaria! unawezaje kuniomba maji?
 yesu akamjibu, kama tu ungalijua zawadi ya mungu na ni nani anayekwambia
 nipatie maji ninywe, ungalikwisha mwomba, naye angekupa maji yaliyo hai
 huyo mama akasema, mheshimiwa, wewe huna chombo cha kutekea maji, nacho kisima ni kirefu; utapata wapi maji yaliyo hai?
@@ -15322,7 +15318,7 @@ msifikiri kwamba mimi nitawashtaki kwa baba
 mose ambaye ninyi mmemtumainia ndiye atakayewashtaki
 kama kweli mngemwamini mose, mngeniamini na mimi pia; maana mose aliandika juu yangu
 lakini hamuyaamini yale aliyoandika, mtawezaje basi, kuamini maneno yangu?
-baada ya hayo, yesu alivuka ziwa galilaya 
+baada ya hayo, yesu alivuka ziwa galilaya
 umati mkubwa wa watu ulimfuata kwa sababu watu hao walikuwa wameona ishara alizokuwa akifanya kwa kuwaponya wagonjwa
 yesu alipanda mlimani, akaketi pamoja na wanafunzi wake
 sikukuu ya wayahudi iitwayo pasaka ilikuwa imekaribia
@@ -16114,14 +16110,14 @@ kwa sababu hiyo, yule aliyenikabidhi kwako ana dhambi kubwa zaidi
 tangu hapo, pilato akawa anatafuta njia ya kumwachilia, lakini wayahudi wakapiga kelele
 ukimwachilia huyu mtu, wewe si rafiki yake kaisari; kila mtu anayejifanya kuwa mfalme humpinga kaisari!
 basi, pilato aliposikia maneno hayo akamleta yesu nje, akaketi juu ya kiti cha hukumu, mahali paitwapo
-sakafu ya mawe 
+sakafu ya mawe
 ilikuwa yapata saa sita mchana, siku ya maandalio ya pasaka
 pilato akawaambia wayahudi, tazameni, mfalme wenu!
 wao wakapaaza sauti
 mwondoe! mwondoe! msulubishe! makuhani wakuu wakajibu, sisi hatuna mfalme isipokuwa kaisari!
 basi, hapo pilato akamtia yesu mikononi mwao ili asulubiwe
 basi, wakamchukua yesu
-naye akatoka akiwa amejichukulia msalaba wake kwenda mahali paitwapo fuvu la kichwa, 
+naye akatoka akiwa amejichukulia msalaba wake kwenda mahali paitwapo fuvu la kichwa,
 hapo ndipo walipomsulubisha, na pamoja naye waliwasulubisha watu wengine wawili; mmoja upande wake wa kulia na mwingine upande wake wa kushoto, naye yesu katikati
 pilato aliandika ilani akaiweka juu ya msalaba
 nayo ilikuwa imeandikwa hivi
@@ -16183,7 +16179,7 @@ akawaona malaika wawili waliovaa mavazi meupe, wameketi pale mwili wa yesu ulipo
 hao malaika wakamwuliza, mama, kwa nini unalia? naye akawaambia, wamemwondoa bwana wangu, na wala sijui walikomweka!
 baada ya kusema hayo, aligeuka nyuma, akamwona yesu amesimama hapo, lakini asitambue ya kuwa ni yesu
 yesu akamwuliza, mama, kwa nini unalia? unamtafuta nani? maria, akidhani kwamba huyo ni mtunza bustani, akamwambia, mheshimiwa, kama ni wewe umemwondoa, niambie ulikomweka, nami nitamchukua
-yesu akamwambia, maria! naye maria akageuka, akamwambia kwa kiebrania, raboni 
+yesu akamwambia, maria! naye maria akageuka, akamwambia kwa kiebrania, raboni
 yesu akamwambia, usinishike; sijakwenda bado juu kwa baba
 lakini nenda kwa ndugu zangu uwaambie
 nakwenda juu kwa baba yangu na baba yenu, mungu wangu na mungu wenu
@@ -16237,8 +16233,8 @@ wanipenda? akamwambia, bwana, wewe wajua yote; wewe wajua kwamba mimi nakupenda
 yesu akamwambia, tunza kondoo wangu!
 kweli nakwambia, ulipokuwa kijana ulizoea kujifunga mshipi na kwenda kokote ulikotaka
 lakini utakapokuwa mzee utanyosha mikono yako, na mtu mwingine atakufunga na kukupeleka usikopenda kwenda
- kisha akamwambia, nifuate
-hapo petro akageuka, akamwona yule mwanafunzi ambaye yesu alimpenda, anafuata 
+kisha akamwambia, nifuate
+hapo petro akageuka, akamwona yule mwanafunzi ambaye yesu alimpenda, anafuata
 basi, petro alipomwona huyo akamwuliza yesu, bwana, na huyu je?
 yesu akamjibu, kama nataka abaki mpaka nitakapokuja, yakuhusu nini? wewe nifuate mimi
 basi, habari hiyo ikaenea miongoni mwa wale ndugu kwamba mwanafunzi huyo hafi
@@ -16421,7 +16417,7 @@ hakuna hata mmoja aliyekuwa na kitu chochote akakiweka kuwa mali yake binafsi, i
 mitume walishuhudia kwa nguvu nyingi kufufuka kwa bwana yesu, naye mungu akawapa baraka nyingi
 hakuna mtu yeyote aliyetindikiwa kitu, maana waliokuwa na mashamba au nyumba walikuwa wanaviuza
 na kuwakabidhi mitume fedha hizo, zikagawiwa kila mmoja kadiri ya mahitaji yake
-kulikuwa na mlawi mmoja, mzaliwa wa kupro, jina lake yosefu, ambaye mitume walimwita jina barnaba 
+kulikuwa na mlawi mmoja, mzaliwa wa kupro, jina lake yosefu, ambaye mitume walimwita jina barnaba
 yeye pia alikuwa na shamba lake, akaliuza; akazichukua zile fedha, akawakabidhi mitume
 mtu mmoja aitwaye anania na mkewe safira waliuza shamba lao vilevile
 lakini, mkewe akiwa anajua, anania akajiwekea sehemu ya fedha alizopata na ile sehemu nyingine akawakabidhi mitume
@@ -16814,7 +16810,7 @@ alipompata, alimleta antiokia
 nao wote wawili walikaa na lile kanisa kwa mwaka wote mzima wakifundisha kundi kubwa la watu
 huko antiokia, ndiko, kwa mara ya kwanza, wafuasi waliitwa wakristo
 wakati huohuo, manabii kadhaa walikuja antiokia kutoka yerusalemu
-basi, mmoja wao aitwaye agabo alisimama, na kwa uwezo wa roho akabashiri kwamba kutakuwa na njaa kubwa katika nchi yote 
+basi, mmoja wao aitwaye agabo alisimama, na kwa uwezo wa roho akabashiri kwamba kutakuwa na njaa kubwa katika nchi yote
 wale wanafunzi waliamua kila mmoja kwa kadiri ya uwezo wake apeleke chochote ili kuwasaidia wale ndugu waliokuwa wanaishi yudea
 basi, wakafanya hivyo na kupeleka mchango wao kwa wazee wa kanisa kwa mikono ya barnaba na saulo
 karibu wakati huohuo, mfalme herode alianza kuwatesa baadhi ya wakristo
@@ -17790,7 +17786,7 @@ lakini itakuwaje iwapo baadhi yao hawakuwa waaminifu? je, jambo hilo litaondoa u
 hata kidogo! mungu hubaki mwaminifu daima, ingawaje kila binadamu ni mwongo
 kama maandiko matakatifu yasemavyo
 kila usemapo, maneno yako ni ya haki; na katika hukumu, wewe hushinda
-lakini, ikiwa uovu wetu unathibitisha kwamba mungu anatenda kwa haki, tutasema nini? je, tutasema kwamba anakosa haki akituadhibu? 
+lakini, ikiwa uovu wetu unathibitisha kwamba mungu anatenda kwa haki, tutasema nini? je, tutasema kwamba anakosa haki akituadhibu?
 hata kidogo! ingekuwa hivyo, mungu angewezaje kuuhukumu ulimwengu?
 labda utasema
 ikiwa ukosefu wa uaminifu kwa upande wangu unamdhihirisha mungu kuwa mwaminifu zaidi na hivyo kumpatia utukufu, basi singepaswa kuhukumiwa kuwa mwenye dhambi!
@@ -17908,7 +17904,7 @@ basi, tuseme nini? je, tutende dhambi ati kwa sababu hatuko chini ya sheria bali
 mnajua kwamba mkijitolea ninyi wenyewe kama watumwa na kumtii fulani, mnakuwa kweli watumwa wake mtu huyo--au watumwa wa dhambi, na matokeo yake ni kifo, au wa utii, na matokeo yake ni kukubaliwa kuwa waadilifu
 ingawa mlikuwa watumwa wa dhambi zamani, sasa lakini--namshukuru mungu--mmetii kwa moyo wote yale maazimio na mafundisho mliyopokea
 mlikombolewa kutoka utumwa wa dhambi, mkawa watumwa wa uadilifu
- kama vile wakati fulani mlivyojitolea ninyi wenyewe kutumikia uchafu na uhalifu kwa ajili ya uovu, vivyo hivyo sasa jitoleeni nafsi zenu wenyewe kutumikia uadilifu kwa ajili ya utakatifu
+kama vile wakati fulani mlivyojitolea ninyi wenyewe kutumikia uchafu na uhalifu kwa ajili ya uovu, vivyo hivyo sasa jitoleeni nafsi zenu wenyewe kutumikia uadilifu kwa ajili ya utakatifu
 mlipokuwa watumwa wa dhambi, mlikuwa huru mbali na uadilifu
 sasa, mlipata faida gani siku zile kutokana na mambo yale ambayo mnayaonea aibu sasa? maana, matokeo ya mambo haya ni kifo!
 lakini sasa, mmekwisha kombolewa kutoka utumwa wa dhambi na mmekuwa watumishi wa mungu; faida mliyo nayo sasa ni utakatifu, na matokeo yake ni uzima wa milele
@@ -18071,7 +18067,7 @@ lakini, kuhusu kukubaliwa kuwa mwadilifu kwa njia ya imani, yasemwa hivi
 usiseme moyoni mwako
 nani atapanda mpaka mbinguni? ;
 wala usiseme
-nani atashuka mpaka kuzimu 
+nani atashuka mpaka kuzimu
 maandiko matakatifu yesema hivi, ujumbe huo wa mungu uko karibu nawe, uko kinywani mwako na moyoni mwako nao ndio ile imani tunayoihubiri
 kama ukikiri kwa kinywa chako kwamba yesu ni bwana na kuamini moyoni mwako kwamba mungu alimfufua kutoka wafu, utaokoka
 maana tunaamini kwa moyo na kukubaliwa kuwa waadilifu; na tunakiri kwa midomo yetu na kuokolewa
@@ -19289,8 +19285,8 @@ basi, ninaandika barua hii nikiwa mbali, ili nitakapofika kwenu nisilazimike kuw
 kwa sasa, ndugu, kwaherini! muwe na ukamilifu, shikeni mashauri yangu, muwe na nia moja; kaeni kwa amani
 naye mungu wa mapendo na amani atakuwa pamoja nanyi
 salimianeni kwa ishara ya upendo
- watu wote wa mungu huku wanawasalimuni
- neema ya bwana yesu kristo na upendo wa mungu na umoja wa roho mtakatifu, viwe nanyi nyote
+watu wote wa mungu huku wanawasalimuni
+neema ya bwana yesu kristo na upendo wa mungu na umoja wa roho mtakatifu, viwe nanyi nyote
 mimi paulo mtume,
 na ndugu wote walio pamoja nami, tunayaandikia makanisa yaliyoko galatia
 mimi nimepata kuwa mtume si kutokana na mamlaka ya binadamu, wala si kwa nguvu ya mtu, bali kwa uwezo wa yesu kristo na wa mungu baba aliyemfufua yesu kutoka wafu
@@ -19765,7 +19761,7 @@ muwe na hamu ya mambo ya huko juu, na siyo mambo ya hapa duniani
 maana ninyi mmekufa na uzima wenu umefichwa pamoja na kristo katika mungu
 uzima wenu halisi ni kristo, na wakati atakapotokea ndipo nanyi pia mtakapotokea pamoja naye katika utukufu
 basi, komesheni kabisa kila kitu kilicho ndani yenu ambacho chahusika na mambo ya kidunia
-uasherati, uchafu, shauku, tamaa mbaya na uchu 
+uasherati, uchafu, shauku, tamaa mbaya na uchu
 kwa sababu ya mambo hayo hasira ya mungu huwajia wote wanaomwasi
 wakati mmoja ninyi pia mliishi kufuatana na mambo hayo, mlipotawaliwa nayo
 lakini sasa mnapaswa kuachana na mambo haya yote
@@ -19806,7 +19802,7 @@ ndugu yetu mpenzi tukiko, mfanyakazi mwaminifu na mtumishi mwenzetu katika kazi 
 ndiyo maana namtuma, ili aichangamshe mioyo yenu kwa kuwaambieni habari zetu
 anakuja pamoja na onesimo, ndugu yetu mpenzi na mwaminifu, ambaye ni mwananchi mwenzenu
 watawapeni habari za mambo yote yanayofanyika hapa
-aristarko, ambaye yuko kifungoni pamoja nami, anawasalimuni; hali kadhalika marko, binamu yake barnaba, 
+aristarko, ambaye yuko kifungoni pamoja nami, anawasalimuni; hali kadhalika marko, binamu yake barnaba,
 naye yoshua aitwaye yusto, anawasalimuni
 miongoni mwa wayahudi waliokwisha pokea imani, hawa tu peke yao, ndio wanaofanya kazi pamoja nami kwa ajili ya utawala wa mungu; nao wamekuwa msaada mkubwa kwangu
 epafra, mwananchi mwenzenu na mtumishi wa kristo yesu anawasalimuni
@@ -20361,7 +20357,7 @@ na wa maana sana kwangu mimi, na kwako atakuwa wa maana zaidi kama mtumwa na kam
 basi, ikiwa wanitambua mimi kuwa mwenzako, mpokee tena kama vile ungenipokea mimi mwenyewe
 kama alikuwa amekukosea kitu, au alikuwa na deni lako, basi, unidai mimi
 naandika jambo hili kwa mkono wangu mwenyewe
-mimi paulo nitalipa! 
+mimi paulo nitalipa!
 haya, basi, ndugu yangu, nifanyie jambo hilo kwa ajili ya jina la bwana; burudisha moyo wangu kama ndugu katika kristo
 naandika nikitumaini kwamba utanikubalia ombi langu; tena najua kwamba utafanya hata zaidi ya haya ninayokuomba
 pamoja na hayo, nitayarishie chumba kwani natumaini kwamba kwa sala zenu, mungu atanijalia niwatembeleeni
@@ -21698,7 +21694,7 @@ theluthi moja ya bahari ikawa damu,
 theluthi moja ya viumbe vya baharini vikafa na theluthi moja ya meli zikaharibiwa
 kisha malaika wa tatu akapiga tarumbeta yake
 na nyota kubwa ikiwaka kama bonge la moto, ikaanguka kutoka mbinguni, na kutua juu ya theluthi moja ya mito na chemchemi za maji
- basi, theluthi moja ya maji yakawa machungu; watu wengi wakafa kutokana na maji hayo, kwa sababu yaligeuka kuwa machungu
+basi, theluthi moja ya maji yakawa machungu; watu wengi wakafa kutokana na maji hayo, kwa sababu yaligeuka kuwa machungu
 kisha malaika wa nne akapiga tarumbeta yake
 ndipo theluthi moja ya jua, ya mwezi na ya nyota ikapata pigo; hata mwangaza ukapoteza theluthi moja ya mngao wake
 theluthi moja ya mchana ikakosa mwanga, hali kadhalika na theluthi moja ya usiku
@@ -21812,7 +21808,7 @@ basi, joka likatapika maji mengi kama mto, yakamfuata huyo mama nyuma ili yamchu
 lakini nchi ikamsaidia huyo mama
 ikajifunua kama mdomo na kuyameza maji hayo yaliyotoka kinywani mwa hilo joka
 basi, joka hilo likamkasirikia huyo mama, likajiondokea, likaenda kupigana na wazawa wengine wa huyo mama, yaani wote wanaotii amri za mungu na kuuzingatia ukweli wa yesu
- na likajisimamia ukingoni mwa bahari
+na likajisimamia ukingoni mwa bahari
 kisha nikaona mnyama mmoja akitoka baharini
 alikuwa na vichwa saba na pembe kumi, na kila pembe ilikuwa na taji
 jina la kashfa lilikuwa limeandikwa juu ya vichwa hivyo
@@ -21997,7 +21993,7 @@ kisha kukatokea sauti kwenye kiti cha enzi
 msifuni mungu enyi watumishi wake wote, nyote mnaomcha, wadogo kwa wakubwa
 kisha nikasikia kitu kama sauti ya umati mkubwa wa watu na sauti ya maji mengi na ya ngurumo kubwa, ikisema, haleluya! maana bwana mungu wetu mwenye uwezo ni mfalme!
 tufurahi na kushangilia; tumtukuze, kwani wakati wa arusi ya mwanakondoo umefika, na bibi arusi yuko tayari
-amepewa uwezo wa kujivalia nguo ya kitani safi, iliyotakata na yenye kungaa! 
+amepewa uwezo wa kujivalia nguo ya kitani safi, iliyotakata na yenye kungaa!
 kisha malaika akaniambia, andika haya
 heri wale walioalikwa kwenye karamu ya arusi ya mwanakondoo! tena akaniambia, hayo ni maneno ya kweli ya mungu
 basi, mimi nikaanguka kifudifudi mbele ya miguu yake nikataka kumwabudu
@@ -22031,7 +22027,7 @@ kisha nikaona viti vya enzi na watu walioketi juu yake; watu hao walipewa mamlak
 niliona pia roho za wale waliokuwa wamenyongwa kwa sababu ya kumtangaza yesu na kwa sababu ya neno la mungu
 hawa hawakumwabudu yule mnyama na sanamu yake, wala hawakupigwa alama yake juu ya paji za nyuso zao, au juu ya mikono yao
 walipata tena uhai, wakatawala pamoja na kristo kwa muda wa miaka elfu moja
- huu ndio ufufuo wa kwanza
+huu ndio ufufuo wa kwanza
 wameneemeka sana, tena heri yao wote wanaoshiriki ufufuo huu wa kwanza
 kifo cha pili hakitakuwa na nguvu juu yao; watakuwa makuhani wa mungu na wa kristo, na watatawala pamoja naye kwa miaka elfu moja
 wakati miaka elfu mia moja itakapotimia, shetani atafunguliwa kutoka gerezani mwake

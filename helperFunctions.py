@@ -43,3 +43,21 @@ def setup_joeynmt():
 
     """
     os.system(commands)
+
+def writefile(filename, data):
+    """
+    Write data to a file
+    """
+    f = open(filename, 'w')
+    for text in data:
+        f.write(text.strip() + '\n')
+    f.close()
+
+def readfile(filename):
+    """
+    Read data from a file
+    """
+    f = open(filename, 'r')
+    data = f.readlines()
+    f.close()
+    return data #[line.strip() for line in data]
