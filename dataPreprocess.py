@@ -125,10 +125,12 @@ def convert_json(data, dataset_name, filename, direction, language_pair):
         }
 
     def rename_flores(example):
+        src_ = language_pair.split("-")[0]
+        tgt_ = language_pair.split("-")[1]
         return {
             "translation": {
-                src: example[f"sentence_{language_pair.split("-")[0]}"], 
-                tgt: example[f"sentence_{language_pair.split("-")[1]}"]
+                src: example[f"sentence_{src_}"], 
+                tgt: example[f"sentence_{tgt_}"]
             }
         }
 
