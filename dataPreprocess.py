@@ -135,7 +135,7 @@ def convert_json(data, dataset_name, filename, direction, language_pair):
         }
 
     if dataset_name == "allenai/wmt22_african":
-        mapped_dataset = data.map(rename_comet)
+        mapped_dataset = data.map(rename_comet).select_columns(["translation"])
     elif dataset_name == "masakhane/mafand":
         mapped_dataset = data.map(rename_mafand)
     else:
@@ -156,6 +156,14 @@ def merge_jsonlines(files, output_file):
 def main():
     parser = HfArgumentParser(ScriptArguments)
     script_args = parser.parse_args_into_dataclasses()[0]
+    if script_args.max_size is not None and script_args.max_size < script_args.top_k_train:
+        script_args.top_k_train = script_args.max_size
+    if script_args.max_size is not None and script_args.max_size < script_args.top_k_val:
+        script_args.top_k_val = script_args.max_size
+    if script_args.max_size is not None and script_args.max_size < script_args.top_k_test:
+        script_args.top_k_test = script_args.max_size
+    else:
+        script_args.max_size = script_args.top_k_train
     
     logger.info("Logging into huggingface.")
     login(token=script_args.hf_token)
