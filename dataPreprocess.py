@@ -176,7 +176,7 @@ def main():
 
             dataset_name = script_args.dataset_name.split("/")[1]
             output_path = os.path.join(script_args.output_dir, dataset_name, new_language_pair)
-            os.makedirs(output_path, exist_ok=True)
+            os.makedirs(output_path, exist_ok=True) if script_args.dataset_name != "allenai/wmt22_african" else None
             
             if script_args.dataset_name == "allenai/wmt22_african":
                 model_path = download_model(script_args.comet_model)
@@ -186,9 +186,14 @@ def main():
                 val = raw_dataset["dev"].shuffle(seed=script_args.seed).select(range(script_args.max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
                 test = raw_dataset["test"].shuffle(seed=script_args.seed).select(range(script_args.max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
                 
-                convert_json(train, script_args.dataset_name, os.path.join(output_path, "train.json"), new_language_pair, language_pair)
-                convert_json(val, script_args.dataset_name, os.path.join(output_path, "dev.json"), new_language_pair, language_pair)
-                convert_json(test, script_args.dataset_name, os.path.join(output_path, "test.json"), new_language_pair, language_pair)
+                comet_name = script_args.comet_model.split("/")[1]
+                output_path = os.path.join(script_args.output_dir, dataset_name, comet_name, new_language_pair)
+                os.makedirs(output_path, exist_ok=True)
+            
+                top_train, top_val, top_test = script_args.top_k_train, script_args.top_k_val, script_args.top_k_test
+                convert_json(train, script_args.dataset_name, os.path.join(output_path, f"train_{top_train}.json"), new_language_pair, language_pair)
+                convert_json(val, script_args.dataset_name, os.path.join(output_path, f"dev_{top_val}.json"), new_language_pair, language_pair)
+                convert_json(test, script_args.dataset_name, os.path.join(output_path, f"test_{top_test}.json"), new_language_pair, language_pair)
             
             
             elif script_args.dataset_name in ["facebook/flores", "masakhane/mafand"]:
