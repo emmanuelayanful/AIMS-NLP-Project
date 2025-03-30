@@ -54,7 +54,7 @@ class ScriptArguments:
         metadata={"help": "List of target languages (full names)."}
     )
     comet_model: str = field(
-        default="masakhane/africomet-qe-stl-1.1", 
+        default="None", 
         metadata={"help": "COMET-QE model path."}
     )
     batch_size: int = field(
@@ -123,7 +123,7 @@ def get_top_sentences(dataset, model, batch_size, k, device, seed):
     return Dataset.from_list([{"translation": {"src": src, "mt": mt}} for _, src, mt in sorted(top_k_heap, key=lambda x: -x[0])])
 
 
-def convert_json(data, dataset_name, filename, direction, language_pair):
+def convert_json(data, dataset_name, filename, direction, language_pair, comet_name):
     src, tgt = direction.split("-")
     
     def rename_comet(example):
@@ -153,7 +153,7 @@ def convert_json(data, dataset_name, filename, direction, language_pair):
         }
 
     if dataset_name == "allenai/wmt22_african":
-        mapped_dataset = data.map(rename_comet)#.select_columns(["translation"])
+        mapped_dataset = data.map(rename_comet).select_columns(["translation"]) if comet_name == "random" else data.map(rename_comet)
     elif dataset_name == "masakhane/mafand":
         mapped_dataset = data.map(rename_mafand)
     else:
@@ -205,10 +205,10 @@ def main():
             output_path = os.path.join(script_args.output_dir, dataset_name, new_language_pair)
             os.makedirs(output_path, exist_ok=True) if script_args.dataset_name != "allenai/wmt22_african" else None
             
-            if script_args.dataset_name == "allenai/wmt22_african":
+            if script_args.dataset_name == "allenai/wmt22_african" and script_args.comet_model != "None":
                 model_path = download_model(script_args.comet_model)
                 model = load_from_checkpoint(model_path)
-                
+
                 train = raw_dataset["train"].shuffle(seed=script_args.seed).select(range(train_max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
                 val = raw_dataset["dev"].shuffle(seed=script_args.seed).select(range(val_max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
                 test = raw_dataset["test"].shuffle(seed=script_args.seed).select(range(test_max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
@@ -224,16 +224,31 @@ def main():
                 test = get_top_sentences(
                     test, model, script_args.batch_size, script_args.top_k_test, script_args.device, script_args.seed
                 )
-            
+
                 comet_name = script_args.comet_model.split("/")[1]
                 output_path = os.path.join(script_args.output_dir, dataset_name, comet_name, new_language_pair)
                 os.makedirs(output_path, exist_ok=True)
             
                 top_train, top_val, top_test = script_args.top_k_train, script_args.top_k_val, script_args.top_k_test
-                convert_json(train, script_args.dataset_name, os.path.join(output_path, f"train_{top_train}.json"), new_language_pair, language_pair)
-                convert_json(val, script_args.dataset_name, os.path.join(output_path, f"dev_{top_val}.json"), new_language_pair, language_pair)
-                convert_json(test, script_args.dataset_name, os.path.join(output_path, f"test_{top_test}.json"), new_language_pair, language_pair)
+                convert_json(train, script_args.dataset_name, os.path.join(output_path, f"train_{top_train}.json"), new_language_pair, language_pair, comet_name)
+                convert_json(val, script_args.dataset_name, os.path.join(output_path, f"dev_{top_val}.json"), new_language_pair, language_pair, comet_name)
+                convert_json(test, script_args.dataset_name, os.path.join(output_path, f"test_{top_test}.json"), new_language_pair, language_pair, comet_name)
             
+            elif script_args.dataset_name == "allenai/wmt22_african" and script_args.comet_model == "None":
+                logger.info("No COMET-QE model provided. Using random sampling.")
+                
+                comet_name = "random"
+                output_path = os.path.join(script_args.output_dir, dataset_name, comet_name, new_language_pair)
+                os.makedirs(output_path, exist_ok=True)
+
+                train = raw_dataset["train"].shuffle(seed=script_args.seed).select(range(train_max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
+                val = raw_dataset["dev"].shuffle(seed=script_args.seed).select(range(val_max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
+                test = raw_dataset["test"].shuffle(seed=script_args.seed).select(range(test_max_size)).map(lambda x: format_to_comet(x, language_pair), batched=True)
+                
+                top_train, top_val, top_test = script_args.top_k_train, script_args.top_k_val, script_args.top_k_test
+                convert_json(train, script_args.dataset_name, os.path.join(output_path, f"train_{top_train}.json"), new_language_pair, language_pair, comet_name)
+                convert_json(val, script_args.dataset_name, os.path.join(output_path, f"dev_{top_val}.json"), new_language_pair, language_pair, comet_name)
+                convert_json(test, script_args.dataset_name, os.path.join(output_path, f"test_{top_test}.json"), new_language_pair, language_pair, comet_name)
             
             elif script_args.dataset_name in ["facebook/flores", "masakhane/mafand"]:
                 for split in raw_dataset.keys():
