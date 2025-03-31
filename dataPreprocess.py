@@ -54,7 +54,7 @@ class ScriptArguments:
         metadata={"help": "List of target languages (full names)."}
     )
     comet_model: str = field(
-        default="None", 
+        default="masakhane/africomet-qe-stl-1.1", 
         metadata={"help": "COMET-QE model path."}
     )
     batch_size: int = field(
@@ -253,8 +253,9 @@ def main():
                 #convert_json(test, script_args.dataset_name, os.path.join(output_path, f"test_{top_test}.json"), new_language_pair, language_pair, comet_name)
             
             elif script_args.dataset_name in ["facebook/flores", "masakhane/mafand"]:
+                comet_name = "random"
                 for split in raw_dataset.keys():
-                    convert_json(raw_dataset[split], script_args.dataset_name, os.path.join(output_path, f"{split}.json"), new_language_pair, language_pair)
+                    convert_json(raw_dataset[split], script_args.dataset_name, os.path.join(output_path, f"{split}.json"), new_language_pair, language_pair, comet_name)
                 if script_args.dataset_name == "masakhane/mafand":
                     input_files = os.listdir(output_path)
                     input_files = [os.path.join(output_path, file) for file in input_files]
