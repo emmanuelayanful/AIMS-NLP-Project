@@ -218,12 +218,12 @@ def main():
                 train = get_top_sentences(
                     train, model, script_args.batch_size, script_args.top_k_train, script_args.device, script_args.seed
                 )
-                val = get_top_sentences(
-                    val, model, script_args.batch_size, script_args.top_k_val, script_args.device, script_args.seed
-                )
-                test = get_top_sentences(
-                    test, model, script_args.batch_size, script_args.top_k_test, script_args.device, script_args.seed
-                )
+                # val = get_top_sentences(
+                #     val, model, script_args.batch_size, script_args.top_k_val, script_args.device, script_args.seed
+                # )
+                # test = get_top_sentences(
+                #     test, model, script_args.batch_size, script_args.top_k_test, script_args.device, script_args.seed
+                # )
 
                 comet_name = script_args.comet_model.split("/")[1]
                 output_path = os.path.join(script_args.output_dir, dataset_name, comet_name, new_language_pair)
