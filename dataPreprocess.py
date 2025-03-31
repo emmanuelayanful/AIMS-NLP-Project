@@ -203,7 +203,7 @@ def main():
 
             dataset_name = script_args.dataset_name.split("/")[1]
             output_path = os.path.join(script_args.output_dir, dataset_name, new_language_pair)
-            os.makedirs(output_path, exist_ok=True) if script_args.dataset_name != "allenai/wmt22_african" else None
+            os.makedirs(output_path, exist_ok=True) #if script_args.dataset_name != "allenai/wmt22_african" else None
             
             if script_args.dataset_name == "allenai/wmt22_african" and script_args.comet_model != "None":
                 model_path = download_model(script_args.comet_model)
