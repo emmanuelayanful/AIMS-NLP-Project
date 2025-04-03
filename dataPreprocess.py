@@ -152,7 +152,7 @@ def convert_json(data, dataset_name, filename, direction, language_pair, comet_n
             }
         }
 
-    if dataset_name == "allenai/wmt22_african":
+    if dataset_name == "allenai/nllb":
         mapped_dataset = data.map(rename_comet).select_columns(["translation"]) if comet_name == "random" else data.map(rename_comet)
     elif dataset_name == "masakhane/mafand":
         mapped_dataset = data.map(rename_mafand)
