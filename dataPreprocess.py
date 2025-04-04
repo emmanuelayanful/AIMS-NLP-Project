@@ -228,7 +228,7 @@ def main():
         top_train, top_val, top_test = script_args.top_k_train, script_args.top_k_val, script_args.top_k_test
         convert_json(train, script_args.dataset_name, os.path.join(output_path, f"train_{top_train}.json"), new_language_pair, language_pair, comet_name)
     
-    elif script_args.dataset_name == "allenai/wmt22_african" and script_args.comet_model == "None":
+    elif script_args.dataset_name == "allenai/nllb" and script_args.comet_model == "None":
         logger.info("No COMET-QE model provided. Using random sampling.")
         
         comet_name = "random"
