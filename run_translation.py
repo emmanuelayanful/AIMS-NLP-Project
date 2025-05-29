@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# coding=utf-8
 # Copyright The HuggingFace Team and The HuggingFace Inc. team. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -52,7 +51,7 @@ from transformers.utils.versions import require_version
 
 
 # Will error if the minimal version of Transformers is not installed. Remove at your own risks.
-check_min_version("4.50.0.dev0")
+check_min_version("4.53.0.dev0")
 
 require_version("datasets>=1.8.0", "To fix: pip install -r examples/pytorch/translation/requirements.txt")
 
@@ -565,7 +564,6 @@ def main():
     #metric = evaluate.load("sacrebleu", cache_dir=model_args.cache_dir)
     sacrebleu_metric = evaluate.load("sacrebleu", cache_dir=model_args.cache_dir)
     chrf_metric = evaluate.load("chrf", cache_dir=model_args.cache_dir)
-
 
     def postprocess_text(preds, labels):
         preds = [pred.strip() for pred in preds]

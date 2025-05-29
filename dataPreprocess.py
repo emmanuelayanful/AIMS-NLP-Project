@@ -26,7 +26,9 @@ from transformers import HfArgumentParser
 
 # Import FastText and load the OpenLID model from Hugging Face Hub
 import fasttext
-openlid_model_path = hf_hub_download(repo_id="laurievb/OpenLID", filename="model.bin")
+repo_id = "cis-lmu/glotlid"
+#repo_id = "laurievb/OpenLID"
+openlid_model_path = hf_hub_download(repo_id=repo_id, filename="model.bin")
 openlid_model = fasttext.load_model(openlid_model_path)
 
 # Configure logging
